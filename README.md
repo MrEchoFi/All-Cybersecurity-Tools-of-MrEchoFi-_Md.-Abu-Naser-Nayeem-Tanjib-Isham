@@ -19,6 +19,7 @@
 # Tools:
 
 - **[BannerGrap V2](https://github.com/MrEchoFi/BannerGrapV2.git)**
+- **[CVE Wraith](https://github.com/MrEchoFi/CVE_Wraith.git)**
 - **[GreeDos V2](https://github.com/MrEchoFi/GreeDoS_V2.git)**
 - **[GRABBER](https://github.com/MrEchoFi/GRABBER.git)**
 - **[BannerGrap V1](https://github.com/MrEchoFi/BannerGrapV1.git)**
